@@ -105,6 +105,7 @@
 
 .sec2{
     height: 1019px;
+    width: 100%;
     text-align: left ;
     
 }
@@ -142,9 +143,22 @@
     
 }
 
+.row-ft{
+    height: 465px;
+}
+
 .sub-footer{
     background-color:#003571 ;
     height: 427px;
     width: 1738px;
     
+}
+
+.sec4{
+    height: 934px;
+}
+
+.sec4-img{
+    width: 375px;
+    height: 375px;
 }
