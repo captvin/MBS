@@ -162,3 +162,20 @@
     width: 375px;
     height: 375px;
 }
+
+.nh{
+    font-size: 18px;
+}
+
+.sec4-content{
+    height: 934px;
+    margin-right: 150px;
+}
+
+.ver-line{
+    height: 565px;
+    width: 1px;
+    border-left: grey solid;
+}
+
+
